@@ -69,7 +69,7 @@ const App = () => {
           <div className="voucher-container">
             <div className="voucher-card">
               <div className="voucher-header">
-                <h1>Un volo <em>ignoto</em></h1>
+                <h1>Un volo verso l'<em>ignoto</em></h1>
               </div>
               <div className="voucher-content">
                 <p className="voucher-description">
